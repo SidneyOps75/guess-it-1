@@ -1,4 +1,4 @@
-package calc
+package formulas
 
 import "testing"
 

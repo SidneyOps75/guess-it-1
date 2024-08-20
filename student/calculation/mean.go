@@ -1,4 +1,4 @@
-package calc
+package formulas
 
 func CalculateAverage(data []float64) float64 {
 	if len(data) == 0 {
